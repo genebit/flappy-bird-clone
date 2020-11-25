@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PointTrigger
+  - Obstacles
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Pipes
+  - Bird
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2433153129
+    locked: 0
+  - name: Clouds
+    uniqueID: 3192063767
+    locked: 0
+  - name: Pipes
+    uniqueID: 2790139597
+    locked: 0
+  - name: Bird
+    uniqueID: 183265285
+    locked: 0
+  - name: Ground
+    uniqueID: 3649841063
+    locked: 0
